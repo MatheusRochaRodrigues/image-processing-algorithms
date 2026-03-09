@@ -38,8 +38,7 @@ image-processing-algorithms/
 <img width="512" height="512" alt="4 8_Ativ_sobelVertical" src="https://github.com/user-attachments/assets/002fc50b-6963-4220-b680-e8d40ae17fd4" />
 <img width="512" height="512" alt="4 8_Ativ_sobel" src="https://github.com/user-attachments/assets/29412ffe-36b1-48fc-bec5-3f03c221bc81" />
 <img width="512" height="512" alt="5 5_Ativ_FurrierAgucadaGauss" src="https://github.com/user-attachments/assets/160996fb-f931-49b5-9ce0-cd98813d4cf9" />
-![3 2_Ativ](https://github.com/user-attachments/assets/0b32edc8-e54a-4577-b06e-19b75069a27a)
-![2 4_Ativ](https://github.com/user-attachments/assets/2c2986aa-2cdb-445c-9034-1a5e96e2a41a)
-
-
+<img width="512" height="512" alt="3 2_Ativ" src="https://github.com/user-attachments/assets/29b56912-a7a3-47ae-903f-4cdd2b5d5d4b" />
+<img width="512" height="512" alt="2.4_Ativ" src="https://github.com/user-attachments/assets/d2e06661-4d2f-427b-b46f-9ee71410654a" />
+   
 
